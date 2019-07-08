@@ -15,8 +15,11 @@ back-end: Node.js, express.js framework
 
 ### Other
 Application is deployed to Heroku and you can access it here: https://whispering-mountain-12993.herokuapp.com/. You can also clone this repository and inside project folder open terminal and then type commands:
+
 npm install (to install required packages - packages are installed based on dependencies attribute inside package.json file)
+
 node server.js (to start server, server is listening on port 8080)
+
 After that you can use application locally by typing 'localhost:8080' inside the browser.
 
 
