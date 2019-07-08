@@ -17,7 +17,7 @@ function function1() {
             document.write = "Greska";
         }
     }
-    var url = "https://numbersapi.com/" + number + "/" + selected + "?json";
+    var url = "http://numbersapi.com/" + number + "/" + selected + "?json";
     ajax.open("GET", url, true);
     ajax.send();
 }
