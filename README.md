@@ -10,6 +10,7 @@ Bitbucket API searches for repositories that have string you entered as part of 
 
 ### Technology stack
 front-end: HTML, CSS, Javasript, AJAX
+
 back-end: Node.js, express.js framework
 
 ### Other
