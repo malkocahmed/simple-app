@@ -30,13 +30,28 @@ button {
     margin-right: 25%;
     margin-bottom: 10px;
 }
-#type, #enter {
+#title, #year {
     width: 70%;
     margin-left: 15%;
     margin-right: 15%;
     height: 30px;
     font-size: 20px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#info {
+    margin: 0 auto;
+    width: 30%;
+    border-radius: 15px;
+    box-sizing: border-box;
+    border: 2px solid yellow;
+    background: darkblue;
+}
+label {
+    display: block;
+    text-align: center;
+    line-height: 100%;
+    margin-top: 10px;
+    color: yellow;
 }
 #raw {
     width: 60%;
@@ -52,9 +67,9 @@ button {
     overflow-y: scroll;
 }
 #tekstarea {
-    margin-left: 35%;
-    margin-right: 35%;
-    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
 }
 #save {
     margin-top: 20px;
@@ -62,4 +77,7 @@ button {
     margin-left: 45%;
     margin-right: 45%;
     
+}
+h3 {
+    text-align: center;
 }
