@@ -2,7 +2,7 @@
 Description: This is simple web application that works with two APIs: OMDb API (movies) and Bitbuket API. You can choose which one you want to work with. You can do that by clicking appropriate buttons on the index page. 
 
 ### OMDb API
-By selecting Movies API you can search details about your favourite movies using two parametres: movie title and year of its release. Key informations about the movie is displayed in HTML form and you can add or change plot attribute of the recevied json. You can also save changes to disc in .json file/format. Also, full json is displayed below in separate div so you can see the complete json. 
+By selecting Movies API you can get details about your favourite movies using two parametres: movie title and year of its release. Key informations about the movie are displayed in HTML form and you can add or change plot attribute of the received json. You can also save changes to disc in .json file/format. Also, full json is displayed below in separate div so you can see the complete json. 
 With this part of my application I tried to cover all the tasks (besides Bonus task) that you required via email: reading collection of data from REST API source, presenting data in html form, changing data and saving json to disc.
 
 ### Bitbucket API
